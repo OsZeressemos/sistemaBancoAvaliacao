@@ -2,6 +2,7 @@
 *Código final para avaliação de Programação Orientada a Objetos.*
 
 
+## 🚧Lista de Acompanhamento das Etapas do Projeto🏗️
 ### 🔨Criação de classes
 - [x] Cliente</br>
 - [x] Conta</br>
